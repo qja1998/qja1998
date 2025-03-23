@@ -18,7 +18,7 @@
   - **[경상대 소프트웨어 구조 및 진화 연구실](https://www.gnu.ac.kr/soft/cm/cntnts/cntntsView.do?mi=13887&cntntsId=6492)**
     - [직책]
       - 학부 연구생
-      - 관련 활동은 📚로 표시
+    - 관련 활동은 📚로 표시
   - **[BookCafe](https://saleese-gnu.github.io/bookcafe/)**
     - 카페 예약 시스템
     - 개발 인원: 4인
@@ -32,7 +32,7 @@
     - ~~[VAE 기반의 음성 style 변경 프로젝트](https://github.com/qja1998/audio)~~
   - **[경상대 SW 개발론 페이지 개발](https://saleese-gnu.github.io/)** 📚
     - Ruby 기반 GitHub page 구현 (1인 개발)
-  - **코딩 하루 학원원 강사**
+  - **코딩 하루 학원 강사**
     - [Streamlit 기반의 style transfer 앱 특강](https://github.com/qja1998/style_transform_with_streamlit)
 
   ### **2023**
