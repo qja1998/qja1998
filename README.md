@@ -12,13 +12,17 @@
   #### :fire: AI / Backend / DevOps 개발자가 되기 위해 공부하고 있습니다.<br/>
   #### :mortar_board: 경상국립대학교(GNU), 항공우주및소프트웨어공학전공
 
+  ### BOJ Rating
+  [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
+  <br/>
+  
   ## Main Experience
 
   ### **2021**
   - **[경상대 소프트웨어 구조 및 진화 연구실](https://www.gnu.ac.kr/soft/cm/cntnts/cntntsView.do?mi=13887&cntntsId=6492)**
     - [직책]
       - 학부 연구생
-      - 관련 활동은 📚로 표시
+    - 관련 활동은 📚로 표시
   - **[BookCafe](https://saleese-gnu.github.io/bookcafe/)**
     - 카페 예약 시스템
     - 개발 인원: 4인
