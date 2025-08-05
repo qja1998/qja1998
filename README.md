@@ -108,19 +108,16 @@
 
   ### Achievement
 
-| 구분 | 수상/성과명 | 세부 내용 |
-|------|-------------|-----------|
-| 논문 | [A Comparison of Pretrained Models for Classifying Issue Reports, IEEE Access](https://ieeexplore.ieee.org/document/10546475) | 게재 |
-| 수상 | 2023 캡스톤디자인 작품 전시 및 발표회 | 금상 |
-| 수상 | 2023 스마트 시티&모빌리티 캡스톤디자인 경진대회 | 은상 |
-| 수상 | SSAFY 최종 프로젝트 | 3위 |
-| 대회 | DPG 해커톤 | 본선 진출 |
-| 수상 | 2023 우수성과발표회 | 우수상 (개인) |
-| 특허 | 탄소 배출량 예측 및 관리 시스템, 그리고, 그 방법 | 특허 출원 |
+  | 구분 | 수상/성과명 | 세부 내용 |
+  |------|-------------|-----------|
+  | 논문 | [A Comparison of Pretrained Models for Classifying Issue Reports, IEEE Access](https://ieeexplore.ieee.org/document/10546475) | 게재 |
+  | 수상 | 2023 캡스톤디자인 작품 전시 및 발표회 | 금상 |
+  | 수상 | 2023 스마트 시티&모빌리티 캡스톤디자인 경진대회 | 은상 |
+  | 수상 | SSAFY 최종 프로젝트 | 3위 |
+  | 대회 | DPG 해커톤 | 본선 진출 |
+  | 수상 | 2023 우수성과발표회 | 우수상 (개인) |
+  | 특허 | 탄소 배출량 예측 및 관리 시스템, 그리고, 그 방법 | 특허 출원 |
 
-
-  ## BOJ Rating
-  [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
   <br/>
   <br/>
   
