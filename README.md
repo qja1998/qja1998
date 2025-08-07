@@ -105,6 +105,7 @@
           - LangGraph
           - MCP
         - Infra(Docker, Jenkins)
+  - CutBack Internship (2025.07.29 - 현재)
 
   ### Achievement
 
