@@ -11,6 +11,7 @@
   ## 👀 About Me
   #### :fire: AI / Backend / DevOps 개발자가 되기 위해 공부하고 있습니다.<br/>
   #### :mortar_board: 경상국립대학교(GNU), 항공우주및소프트웨어공학전공
+  #### :technologist: AI Developer Intern at [CutBack](https://cutback.video/) (current)
 
   ### BOJ Rating
   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=qja1998)](https://solved.ac/qja1998)
