@@ -164,27 +164,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"/>
   <br/>
   
-
-  ### Tools
-  <!--git-->
-  <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"/>
-  <!--github-->
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  <!--jupyter-->
-  <img src="https://img.shields.io/badge/jupyter-F37626?&logo=jupyter&logoColor=white"/>
-  <!--notion-->
-  <img src="https://img.shields.io/badge/notion-000000?&logo=notion&logoColor=white"/>
-  <!--colab-->
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff"/>
-  <br/>
-
-  ### ETC.
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"/>
-  <!--Anaconda-->
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"/>
-  <br/>
-  
   ## 🤔 Github Stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qja1998&theme=nord_dark)
 
